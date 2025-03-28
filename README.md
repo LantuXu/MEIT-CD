@@ -20,8 +20,8 @@ einops  0.8.0
 Clone this repo:
 
 ```shell
-git clone https://github.com/Guderian911/MEIT.git
-cd MEIT
+git clone https://github.com/LantuXu/MEIT-CD.git
+cd MEIT-CD
 ```
 
 ## Quick Start
